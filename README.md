@@ -4,7 +4,7 @@
 
 1. Import the following libraries:
    ```
-   pip install transformers torch sentencepiece
+   pip install pandas matplotlib numpy tensorflow seaborn scikit-learn
    ```
 
 2. Enter the company's name whose stock prediction you want to see. Now go to 'https://finance.yahoo.com' > search for the company > click on 'Historical Data' > click on 'Download'. The CSV file containing the information of the stock gets downloaded. Copy the path of the CSV file and paste it in the code.
