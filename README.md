@@ -1,5 +1,7 @@
 # Stock Price Predictor
 
+The predictor predicts stock prices using LSTM networks. It processes historical stock data, scales it, and splits it into training and testing sets. After training the model, it predicts future stock prices for the next 30 days and visualizes the predictions alongside actual data. 
+
 ## Execution Guide:
 
 1. Import the following libraries:
