@@ -4,7 +4,7 @@ The predictor predicts stock prices using LSTM networks. It processes historical
 
 ## Execution Guide:
 
-1. Import the following libraries:
+1. Run the following command line in the terminal:
    ```
    pip install pandas matplotlib numpy tensorflow seaborn scikit-learn
    ```
