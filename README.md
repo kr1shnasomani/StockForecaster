@@ -32,7 +32,6 @@ The predictor predicts stock prices using LSTM networks. It processes historical
    ![image](https://github.com/user-attachments/assets/03a62180-55d2-4776-a4b3-fe6c133fe6b1)
 
 ## Overview:
-
 The provided code implements a **stock price prediction** model for **Rail Vikas Nigam Ltd. (RVNL)** using a **Long Short-Term Memory (LSTM)** model, a type of recurrent neural network (RNN) commonly used for time-series forecasting tasks like stock price prediction. Here's an overview of the process:
 
 1. **Data Preprocessing:**
