@@ -1,9 +1,7 @@
-# Stock Price Predictor
-
+<h1 align="center">StockForecaster</h1>
 The predictor predicts stock prices using LSTM networks. It processes historical stock data, scales it, and splits it into training and testing sets. After training the model, it predicts future stock prices for the next 30 days and visualizes the predictions alongside actual data. 
 
 ## Execution Guide:
-
 1. Run the following command line in the terminal:
    ```
    pip install pandas matplotlib numpy tensorflow seaborn scikit-learn
